@@ -12,14 +12,15 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Brendan Rice</h2>
+        <p><a href="mailto:rice.brendan8@gmail.com">rice.brendan8@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
+      <p>Change, Learning, and Innovation professional with over 11 years of consulting experience for clients with Capgemini and Boston Consulting Group. Adept at strategic advisory and applied innovation from design to evaluation of solutions. Passionate about solving complex problems, technology, and enabling change.
+          Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
         and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
         I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
         , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
@@ -40,3 +41,6 @@ const SideBar = () => (
 );
 
 export default SideBar;
+
+
+
